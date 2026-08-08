@@ -55,12 +55,13 @@ Restart Claude Code (or start a new session) and the skill will be available.
 
 > Run a PMM impact audit. Here's our homepage and product page copy: [paste] … our battlecard: [paste] … three call summaries: [paste] … our enablement usage export: [paste] … win rate and stage-conversion numbers: [paste] … and here's what Perplexity said when I asked "best [category] tools": [paste]
 
-See [`examples/`](./examples) for a worked audit (invented, illustrative data) — including a closed attribution gate capping strong-looking outcome numbers, and an owner tag that keeps a low enablement score from landing on PMM.
+See [`examples/`](./pmm-impact-audit-skill/examples) for a worked audit (invented, illustrative data) — including a closed attribution gate capping strong-looking outcome numbers, and an owner tag that keeps a low enablement score from landing on PMM.
 
 ## Repository contents
 
-- [`pmm-impact-audit-skill/SKILL.md`](./pmm-impact-audit-skill/SKILL.md) — the skill
-- [`examples/`](./examples) — worked example (illustrative, invented data)
+- [`pmm-impact-audit-skill/SKILL.md`](./pmm-impact-audit-skill/SKILL.md) — the skill entry point
+- [`references/`](./pmm-impact-audit-skill/references) — loaded on demand: the seven registers, the 20 criteria and scoring math, the output modes, and the known method limits
+- [`examples/`](./pmm-impact-audit-skill/examples) — worked audit (illustrative, invented data)
 - [`pmm-impact-audit-skill.skill`](./pmm-impact-audit-skill.skill) — packaged for upload
 
 ## Part of a series
