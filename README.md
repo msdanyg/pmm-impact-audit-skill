@@ -20,14 +20,19 @@ Companion to [Stop Asserting. Start Proving. — the marketing leader's impact a
 - **Rewrite-level feedback** — messaging gaps get the fix shown, built from your own facts, never invented ones
 - **Re-scores on demand** — fix something, bring the new evidence, get the updated score
 
-## When it triggers
+## When to reach for it
 
-Phrases like:
-
-- "Audit our product marketing" / "run a PMM impact audit"
-- "Score our product marketing maturity"
-- "How do I prove PMM's impact to the board?"
-- "Build the budget case for my marketing plan"
+- **Planning a cycle** — setting PMM priorities for the quarter or year, with a baseline to plan against
+- **New in the seat** — inheriting the function and needing an honest picture of what is there
+- **Board, QBR, or exec update** — showing what the positioning work changed, with evidence attached
+- **Asking for headcount or budget** — a gap list, an owner per line, and the metric each ask moves
+- **Writing team goals** — something to measure product marketers on other than launches shipped
+- **Repositioning** — moving upmarket or renaming a category, with the before picture on record
+- **After a launch** — did the message reach the field and the market
+- **Losing deals on message** — the same competitor keeps winning, or reps go off-script
+- **Analyst cycle** — a Magic Quadrant, Wave, or Peer Insights submission is coming
+- **AI visibility** — buyers quote something wrong, or you are missing from "best [category]" answers
+- **Looking at someone else** — competitor teardown, acquisition diligence, or prospect research
 
 ## Installation
 

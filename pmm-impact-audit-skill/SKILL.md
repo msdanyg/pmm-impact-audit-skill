@@ -1,6 +1,6 @@
 ---
 name: pmm-impact-audit-skill
-description: Use when someone asks whether product marketing is actually working, wants the PMM function measured or given a mandate, needs to prove product marketing's impact to a board or win budget for it, asks for a positioning, messaging, claims, or competitive-content audit, wonders why AI answer engines describe their brand wrong or leave it out of category answers, or wants to check whether ad copy and category language still match across surfaces. Also for outside-in teardowns of a competitor, acquisition target, or prospect from public evidence alone.
+description: Use when a marketing or product marketing leader is planning a cycle, inheriting a function and needs a baseline, preparing a board or QBR update, justifying headcount or budget, writing team goals beyond launch counts, repositioning or moving upmarket, prepping an analyst submission, running a post-launch check on whether the message landed, diagnosing deals lost on messaging or reps going off-script, or checking how AI answer engines describe the brand and its category. Also for outside-in teardowns of a competitor, acquisition target, or prospect from public evidence alone.
 ---
 
 # PMM Impact Audit
@@ -15,12 +15,19 @@ This skill supplies the missing instrument: twenty evidence-gated criteria acros
 
 ## When to Use
 
-- "Is our product marketing working?" · "Audit our positioning" · "Score our PMM maturity"
-- "How do I prove PMM's impact to the board?" · "Build the budget case"
-- "What is product marketing even for here?" — mandate and charter questions
-- "Why does ChatGPT describe us wrong / leave us out of the category?"
-- Competitor teardown, acquisition diligence, or prospect research from public evidence
-- Checking whether ad copy still matches approved positioning
+The moments a marketing leader actually reaches for this:
+
+- **Planning a cycle** — setting PMM priorities for the quarter or the year, and wanting a baseline to plan against rather than a blank page.
+- **New in the seat** — inheriting the function and needing an honest picture of what is already there, fast.
+- **Board, QBR, or exec update** — showing what the positioning work changed, with evidence attached instead of a narrative.
+- **Asking for headcount, budget, or agency spend** — arriving with a gap list, an owner per line, and the metric each ask should move.
+- **Writing team goals** — giving product marketers something to be measured on other than launches shipped.
+- **Repositioning** — moving upmarket, entering or renaming a category, and wanting the before picture on record.
+- **After a launch** — checking whether the message actually reached the field and the market.
+- **Losing deals on message** — the same competitor keeps winning, or reps keep going off-script.
+- **Analyst cycle** — a Magic Quadrant, Wave, or Peer Insights submission is coming up.
+- **AI visibility** — buyers arrive quoting something wrong, or the brand is missing from "best [category]" answers.
+- **Looking at someone else** — competitor teardown, acquisition diligence, or prospect research from public evidence alone.
 
 **Not for:** copywriting a single asset, or a GEO/technical-retrieval audit (use `geo-audit-skill` for crawlability, schema, and chunk structure — this skill grades what you say, that one grades whether the machine can read it).
 
